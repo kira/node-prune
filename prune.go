@@ -57,7 +57,6 @@ var DefaultFiles = []string{
 	"license",
 	"AUTHORS",
 	"CONTRIBUTORS",
-	".yarn-integrity",
 	".yarnclean",
 	"_config.yml",
 	".babelrc",
