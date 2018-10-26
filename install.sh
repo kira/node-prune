@@ -1,5 +1,6 @@
-#!/bin/sh
+#!/usr/bin/env bash
 set -euo pipefail
+IFS=$'\n\t'
 # -------------------------------------------------------------------------------------------------------
 # MODIFIED BY KIRA TALENT ON 2018-10-26
 # Repository was forked and this script has been copied
