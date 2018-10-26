@@ -10,7 +10,7 @@ set -e
 usage() {
   this=$1
   cat <<EOF
-$this: download go binaries for tj/node-prune
+$this: download go binaries for kira/node-prune
 
 Usage: $this [-b] bindir [-d] [tag]
   -b sets bindir or installation directory, Defaults to ./bin
