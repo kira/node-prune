@@ -6,22 +6,10 @@ node-prune is a small tool to prune unnecessary files from ./node_modules, such 
 
 ## Installation
 
-From source:
-
-```
-$ go get github.com/tj/node-prune/cmd/node-prune
-```
-
 From binary to `./bin/node-prune`:
 
 ```
-$ curl -sfL https://install.goreleaser.com/github.com/tj/node-prune.sh | bash
-```
-
-From binary to `/usr/local/bin/node-prune`:
-
-```
-$ curl -sfL https://install.goreleaser.com/github.com/tj/node-prune.sh | bash -s -- -b /usr/local/bin
+$ curl -sfL https://raw.githubusercontent.com/kira/node-prune/master/install.sh | bash -s -- -d v1.0.1
 ```
 
 ## Usage
