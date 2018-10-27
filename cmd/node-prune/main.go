@@ -9,7 +9,7 @@ import (
 	"github.com/apex/log/handlers/cli"
 	"github.com/dustin/go-humanize"
 
-	"github.com/tj/node-prune"
+	"github.com/kira/node-prune"
 )
 
 func init() {
